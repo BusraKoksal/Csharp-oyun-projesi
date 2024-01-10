@@ -1,0 +1,14 @@
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\bin\Debug\BattleForKingdom.exe.config
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\bin\Debug\BattleForKingdom.exe
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\bin\Debug\BattleForKingdom.pdb
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.Form1.resources
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.Properties.Resources.resources
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.exe
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.pdb
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.Part_1.resources
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.Part_2.resources
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.loading.resources
+C:\Users\busra\source\repos\BattleForKingdom\BattleForKingdom\obj\Debug\BattleForKingdom.thanks.resources
